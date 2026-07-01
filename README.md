@@ -23,11 +23,14 @@
 
 ---
 
-## 📊 Моя статистика GitHub
+## 📊 Моя активность GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amir-arch-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-arch-cyber&layout=compact&theme=dark" height="180" alt="Top Langs" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-arch-cyber&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=amir-arch-cyber&theme=dark&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 ---
