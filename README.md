@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Amir%20Backend&fontSize=60&theme=dark)
+
 # Привет! Я Амир 👋
 
 ### Бэкенд-разработчик на Python & Django | Фронтенд-энтузиаст
