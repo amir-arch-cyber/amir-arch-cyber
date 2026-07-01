@@ -26,8 +26,8 @@
 ## 📊 Моя статистика GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amir-arch-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-arch-cyber&layout=compact&theme=dark" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amir-arch-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-arch-cyber&layout=compact&theme=dark" height="180" alt="Top Langs" />
 </p>
 
 ---
