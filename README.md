@@ -31,15 +31,12 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-arch-cyber&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=amir-arch-cyber&theme=dark&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+
 
 ---
 
 ## 📫 Как со мной связаться
-* **Telegram:** [@твой_юзернейм]
-* **LinkedIn:** [ссылка_на_профиль]## Hi there 👋
+* **Telegram:** [@sheravganzodaa]
 
 <!--
 **amir-arch-cyber/amir-arch-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
